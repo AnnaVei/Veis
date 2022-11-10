@@ -1,4 +1,6 @@
 {"person_name": "Anna",
 "person_age": 30,
-"person_weight": 60
+"person_weight": 60,
+ "person_salary: 1000,
+ "person_car": "Tesla"
 }
