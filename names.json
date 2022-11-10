@@ -1,1 +1,4 @@
-{"person_name": "Anna"}
+{"person_name": "Anna",
+"person_age": 30,
+"person_weight": 60
+}
